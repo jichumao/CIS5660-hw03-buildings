@@ -13,9 +13,10 @@ https://github.com/user-attachments/assets/94241ddb-255d-49da-89d4-d7dd873e2cbf
 
 In this procedural architecture project, I created an HDA (Houdini Digital Asset) that includes boxes, pillars, borders, and supports, ultimately generating a complete building. I also provided size controls for various components of the building, such as the windows, balconies, and doors, allowing adjustments to their height and width.
 
-Apart from the procedurally generated doors, windows, and balconies, this project also offers an alternative set of balcony and window models, enabling users to switch between them with a single click, adding more flexibility to the building generation process.
+Apart from the procedurally generated doors, windows, and balconies, this project also offers an alternative set of door, balcony and window models, enabling users to switch between them with a single click, adding more flexibility to the building generation process.
 
-The alternative balcony and door is credited from [Link1](https://sketchfab.com/3d-models/door-adf292f437f24151918a3b16ecef52d2) and [Link2](https://sketchfab.com/3d-models/balcony-trial-unoptimized-93b6d80f17b04c13b0a1be6d11030e24)
+The alternative balcony and door is credited from [Link1](https://sketchfab.com/3d-models/door-adf292f437f24151918a3b16ecef52d2) and [Link2](https://sketchfab.com/3d-models/balcony-trial-unoptimized-93b6d80f17b04c13b0a1be6d11030e24), additional window is credited from [Link3](https://sketchfab.com/3d-models/residential-window-ae11104237314463a61251fd46ded4b4)
+
 # Implementaion Steps
 ### Part 0: Setup and Planning 
 ### SideFX Labs 

@@ -5,6 +5,8 @@ In this homework I have gain more experience with tool creation and loops. The c
 
 ## Highlights
 
+https://github.com/user-attachments/assets/94241ddb-255d-49da-89d4-d7dd873e2cbf
+
 ![](img/1.jpg)
 ![](img/2.jpg)
 
